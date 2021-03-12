@@ -1,2 +1,1 @@
-# swift-study
-study
+This is a "swift-study"
